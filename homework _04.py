@@ -16,7 +16,7 @@ What is the type of return value of division?remainders
 What is a modulo operation? What is integral division?a mudulo is a thing that gets remainders
 How are logical values interpreted in mathematical operations?
 How does addition and multiplication work on strings? What can we add and
-multiply?if inside the sting is a number it is converted into a number if not then it is a error
+multiply?if inside the sting is a number it is converted into a int if not then it is a error
 8. How does fstring work? if there is a fstring it makes it into a sentence
 9. What kind of built-in functions did we explore and what are their purposes?
 
